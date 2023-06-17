@@ -5,6 +5,14 @@
 
 ## Requirements
 
+The [PassBlast](PassBlast) folder contains a packaged version of this app called `PassBlast.exe`
+
+Just run the .exe!
+
+## Source Code:
+
+If you want to build the app from the [source code](Source), you will need the following python packages:
+
 ```
 pip install pynput
 pip install customtkinter
