@@ -9,7 +9,7 @@ The [App](App/) folder contains a packaged version of this app called `PassBlast
 
 Just run the .exe!
 
-There is also an older version of the app I made as an expierment in `customtkinter`. You can find that if you like in [Legacy](Legacy/)
+There is also an older version of the app I made as an experiment with the `customtkinter` library. You can find that if you like in [Legacy](Legacy/)
 
 ## Source Code:
 
