@@ -5,15 +5,19 @@
 
 ## Requirements
 
-The [PassBlast](PassBlast) folder contains a packaged version of this app called `PassBlast.exe`
+The [App](App/) folder contains a packaged version of this app called `PassBlast.exe`
 
 Just run the .exe!
 
+There is also an older version of the app I made as an expierment in `customtkinter`. You can find that if you like in [Legacy](Legacy/)
+
 ## Source Code:
 
-If you want to build the app from the [source code](Source), you will need the following python packages:
-
+If you want to build the app from the [source code](Source/), you will need:
 ```
 pip install pynput
+```
+and if you want to build the legacy version that used `customtkinter`:
+```
 pip install customtkinter
 ```
